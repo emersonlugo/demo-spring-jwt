@@ -1,0 +1,3 @@
+server:
+  contextPath: /demo
+  port: 8081
