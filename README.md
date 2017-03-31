@@ -26,7 +26,7 @@ Ao realizar os passos acima vocês receberão a seguinte resposta: status=401 - 
  Exemplo: Authorization: demoToken eyJhbGciOiJIUzI1NiJ9.eyJ1c3VhcmlvU2lzdGVtYSI6eyJpZCI6MSwibG9naW4iOiJhZG1pbiJ9LCJleHAiOjE0OTA4MzU3OTksImlhdCI6MTQ5MDgzMzk5OX0.B9_BSDI2KPS_AWrJaYLlD8DlKK68FQIMIVae5Mgwd1c
  
 Ao realizar os passos acima vocês receberão a seguinte resposta:
-# Você acaba de acessar um endpoint protegido. Parabéns!!
+Você acaba de acessar um endpoint protegido. Parabéns!!
 
 # Observações sobre o último passo:
  Se um token inválido ou expirado for informado, a resposta será outra. Por exemplo: 
